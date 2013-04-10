@@ -8,7 +8,7 @@
  * MCP9700A y lo transmite a través de la UART del PIC16F877A.
  */
 
-//Este es un comentario que solo sirve para ver diff..
+//Este es un comentario que solo sirve para ver diff.. Nada mas
 #include <16f877a.h>
 #device adc = 8
 #fuses NOWDT,XT
